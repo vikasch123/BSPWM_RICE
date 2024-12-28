@@ -1,0 +1,14 @@
+// Rofi colors for Melissa
+
+* {
+    font: "Terminess Nerd Font Mono Bold 10";
+    background: #2e3440;
+    bg-alt: #353C4A;
+    background-alt: #2e3440E0;
+    foreground: #d8dee9;
+    selected: #88c0d0;
+    active: #a3be8c;
+    urgent: #bf616a;
+
+    img-background: url("~/.config/bspwm/rices/melissa/rofi.webp", width);
+}

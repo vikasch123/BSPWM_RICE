@@ -1,0 +1,8 @@
+Net/ThemeName "Nord-zk"
+Net/IconThemeName "Vimix-White"
+Gtk/CursorThemeName "Qogirr"
+Gtk/DecorationLayout ":"
+Xft/Hinting 1
+Xft/HintStyle "hintfull"
+Xft/Antialias 1
+Xft/RGBA "none"
